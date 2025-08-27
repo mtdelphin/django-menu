@@ -1,0 +1,7 @@
+/venv
+notes
+Pipfile
+Pipfile.lock
+.env
+/*/.env
+/*/*.sqlite3
